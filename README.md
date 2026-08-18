@@ -6,6 +6,10 @@ A base original, composta por múltiplos arquivos transacionais, foi modelada em
 
 Os dados utilizados são públicos e foram disponibilizados através do [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
+![Visão Geral](./Dashboard/Visão Geral.png)
+![Logística](./Dashboard/Logística.png)
+![Produtos](./Dashboard/Produtos.png)
+
 ## 🛠️ Tecnologias Utilizadas
 * **Banco de Dados:** Microsoft SQL Server
 * **Ambiente de Desenvolvimento:** SQL Server Management Studio (SSMS)
